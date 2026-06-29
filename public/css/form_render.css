@@ -8,6 +8,7 @@
 body{
     background:#fff;
     padding:40px;
+    font-size:20px;
 }
 
 form{
@@ -24,7 +25,7 @@ fieldset{
 
 legend{
     padding:0 8px;
-    font-size:28px;
+    font-size:20px;
 }
 
 .form-group{
@@ -35,7 +36,7 @@ legend{
 
 .form-group label:first-child{
     width:310px;
-    font-size:30px;
+    font-size:20px;
 }
 
 input[type=text],
@@ -44,7 +45,7 @@ input[type=email],
 select{
     width:260px;
     padding:8px;
-    font-size:22px;
+    font-size:20px;
 }
 
 textarea{
@@ -64,7 +65,7 @@ textarea{
 
 .inline label{
     width:auto !important;
-    font-size:26px;
+    font-size:20px;
 }
 
 input[type=checkbox],
@@ -81,7 +82,7 @@ button{
     color:white;
     border:none;
     padding:10px 24px;
-    font-size:22px;
+    font-size:20px;
     border-radius:6px;
     cursor:pointer;
 }
